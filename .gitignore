@@ -1,0 +1,78 @@
+# ============================
+# PYTHON
+# ============================
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ============================
+# EDITORS / IDEs
+# ============================
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# ============================
+# SYSTEM FILES
+# ============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# ============================
+# JUPYTER NOTEBOOKS (optional)
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# MISC
+# ============================
+
+# Temporary files
+*.log
+*.tmp
+
+# Resources
+src/scripts/image_processing/image/
